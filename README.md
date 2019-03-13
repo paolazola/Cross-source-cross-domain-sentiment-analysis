@@ -1,6 +1,6 @@
 # Cross-source-cross-domain-sentiment-analysis
 
-This repository hold 2 pickle dictionary (Python) containing labeled data for cross source cross domain sentiment analysis. The two files are related either to English texts or Italian written ones. 
+This repository hold 2 pickle dictionaries (Python) containing labeled data for cross source cross domain sentiment analysis. The two files are related either to English texts or Italian written ones. 
 
 The Dataset_ENG is composed by:
 1) Amazon: it contains a sample of 75,000 reviews of different Amazon products (as lectronic devices, kitchen objects, clothes and house accessories) collected from January to February 2018 and written in English. Each review is accompanied by the its date, the short title and the sentiment (expressed in a 5-stars rating) defined by the user who wrote the review. For privacy issues, the user name is omitted. 
