@@ -19,3 +19,10 @@ The Dataset_ITA is composed by:
 3) Facebook: it contains 1,077 Italian Facebook posts. The post are related only to specific public pages having a 5-start rating system. The sampled reviews performed from January to February 2018 are about several topics, namely universities, events, famous people, locals, parties, shops and cities.  Each item in the collection is accompanied by the sentiment (expressed in a 5-stars rating) defined by the user. For privacy issues, the user name is omitted. 
 
 4) Twitter: sample of 937 Italian tweets manually labeled. The sample was collected at April 2018 and it regards Italian television shows and other more general topics. Each review has a three class sentiment label among negative, neutral or positive. 
+
+If you use these datasets, please cite:
+
+Zola, P., Cortez, P., Ragno, C., & Brentari, E. (2019). Social Media Cross-Source and Cross-Domain Sentiment Classification. International Journal of Information Technology & Decision Making.
+
+Thank you!
+
